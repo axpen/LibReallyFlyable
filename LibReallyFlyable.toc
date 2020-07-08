@@ -1,0 +1,14 @@
+## Interface: 80300
+## Version: 1
+
+## Title: Lib: ReallyFlyable
+## Notes: Replacement for the IsFlyableArea API function
+
+## Author: Axpen
+## X-Email: axpencoding@gmail.com
+## X-License: Public Domain
+## X-Website: https://github.com/axpen/LibReallyFlyable
+## X-Curse-Project-ID: 394430
+
+LibStub/LibStub.lua
+LibReallyFlyable.lua
