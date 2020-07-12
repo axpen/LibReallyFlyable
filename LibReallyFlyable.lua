@@ -44,6 +44,8 @@ local spellForContinent = {
 	[1265] = -1, -- Tanaan Jungle Intro
 	[1463] = -1, -- Helheim Exterior Area
 	[1669] = -1, -- Argus (mostly OK, few spots are bugged)
+	[1763] = -1, -- Atal'Dazar
+    [1004] = -1, -- Scarlet Monastery
 
 	-- Unflyable class halls where IsFlyableArea returns true:
 	-- Note some are flyable at the entrance, but not inside;
